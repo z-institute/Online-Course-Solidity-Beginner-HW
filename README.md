@@ -1,5 +1,5 @@
 # [線上課] Solidity 語法基礎：零基礎學習以太坊開發：作業繳交區
-## Online Course - Web3 Beginner's Course Homework Submission
+## Online Course - Solidity Beginner's Course Homework Submission
 - 課程連結：https://zinstitute.kaik.io/courses/solidity
 
 ![02_較大尺寸](https://user-images.githubusercontent.com/19768276/176319597-c5fb9911-0f69-4be5-acf8-7690be643319.jpg)
